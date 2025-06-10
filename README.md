@@ -141,4 +141,3 @@ Quarterly cadence – switch to quarterly_financials + seasonal SARIMAX for top�
 
 Streamlit dashboard – drag‑and‑drop tickers, slider‑based assumptions, downloadable PDF tear‑sheets.
 
-Contributions, issues, and feature requests are very welcome – please open a PR or issue 😃.
