@@ -1,4 +1,4 @@
-1 · Project Purpose
+
 This repository combines two self-contained, audit-friendly building blocks:
 
 File	Role
